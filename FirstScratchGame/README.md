@@ -1,1 +1,1 @@
-Class assignment for CMPM 120 where we explore 1D of movement
+A simple SHMUP with an upgrade shop.
